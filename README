@@ -1,0 +1,7 @@
+This repository was automagically generated for testing purposes.
+It contains 3 branches.
+Each branch contains 100 files and 100 commits.
+In the first commit 2 were added to every file,
+afterwards the following changes were made:
+- files 1 through 50 (included) had 2 lines added every 3rd + 2 commit and 1 line deleted every 3rd + 1 commit
+- files 51 through 100 (included) had 1 line deleted and 2 added every 3rd commit
